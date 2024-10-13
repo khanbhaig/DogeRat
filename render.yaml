@@ -1,7 +1,1 @@
-services:
-  - type: web
-    name: traba-server-node-dev
-    env: docker
-    branch: main
-    dockerfilePath: ./Dockerfile
-    dockerContext: ./
+
